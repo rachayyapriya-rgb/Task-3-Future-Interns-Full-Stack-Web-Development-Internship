@@ -8,7 +8,7 @@ Lumière Salon is a premium beauty studio website developed as part of the Futur
 
 ## Live Demo
 
-https://claude.ai/public/artifacts/369c55e0-aba0-4713-81e7-1e22954b95e6
+https:///public/artifacts/369c55e0-aba0-4713-81e7-1e22954b95e6
 
 ## Project Details
 
